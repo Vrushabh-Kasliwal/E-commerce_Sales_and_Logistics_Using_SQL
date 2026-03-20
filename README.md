@@ -1,4 +1,4 @@
-# E-commerce Sales & Logistics SQL Analysis  
+# E-commerce Sales & Logistics SQL Analysis
 
 ## 📌 Overview  
 This project analyzes **100K+ e-commerce orders (2016–2018)** to uncover:  
